@@ -1,7 +1,7 @@
 import './App.css';
 import {
   NavDisplay, LeftSection, Operators,
-} from './components/components';
+} from './components/Calculator';
 
 function App() {
   return (
