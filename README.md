@@ -19,8 +19,6 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
   - [👥 Contributors](#contributors)
 - [🔭 Future Features](#future-features)
@@ -54,26 +52,26 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[using API to manage and retrieve information]**
+- **[Perform Arithmetic calculations]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- watch [Loading ...]()
-quick intro
+- VISIT [Math magicians](https://danielochuba.github.io/Math-magicians/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running cloning this repo `https://github.com/danielochuba/math-magicians`.
+To get a local copy up and running cloning this repo `https://github.com/danielochuba/Math-magicians`.
 
 ### Prerequisites
 
 There are no known prerequisites to run this project.
 If you encounter any issues trying to run it, please feel free to
-[open a ticket](https://github.com/danielochuba/math-magicians/issues) to let me know and i will work on it to the best
+[open a ticket](https://github.com/danielochuba/Math-magicians/issues) to let me know and i will work on it to the best
 of my abilities
 
 ### Setup
@@ -84,7 +82,7 @@ Clone this repository to your desired folder:
 
 or
 
-`https://github.com/danielochuba/math-magicians` <-- _Only if you have [SSH keys configured](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on your GitHub account_.
+`https://github.com/danielochuba/Math-magicians` <-- _Only if you have [SSH keys configured](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on your GitHub account_.
 
 ### Usage
 
@@ -128,7 +126,7 @@ Contributions, issues, and feature requests are welcome!
 Your ideas may trigger the next features of the project
 once my knowledge base can reach the level of your imagination
 
-Feel free to check the [issues page](https://github.com/danielochuba/math-magicians/issues).
+Feel free to check the [issues page](https://github.com/danielochuba/Math-magicians/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
