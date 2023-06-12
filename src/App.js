@@ -1,15 +1,11 @@
 import './App.css';
-import {
-  NavDisplay, LeftSection, Operators,
-} from './components/Calculator';
+import Calculator from './components/Calculator';
 
 function App() {
   return (
     <div className="calculator-container">
-      <NavDisplay />
       <div className="body">
-        <LeftSection />
-        <Operators />
+        <Calculator />
       </div>
 
     </div>
