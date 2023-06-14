@@ -29,7 +29,7 @@
 - [📝 License](#license)
 - [⚠️Disclaimer](#disclaimer)
 
-# 📖 [JavaScript capstone project] <a name="about-project"></a>
+# 📖 [Math Magicians] <a name="about-project"></a>
 
 **[Math Magicians]** "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 
