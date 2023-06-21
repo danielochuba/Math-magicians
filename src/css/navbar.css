@@ -1,0 +1,15 @@
+.navLinks > a {
+    font-size: 18px;
+    border-radius: 7px;
+    padding: 5px;
+}
+
+.navLinks {
+    display: flex;
+    align-items: center;
+}
+
+.heading {
+    font-size: 200%;
+    margin-left: -3%;
+}
