@@ -1,0 +1,25 @@
+.error {
+  color: red;
+}
+
+.quote-box {
+  height: 150px;
+  border: 1px solid darkorange;
+  margin: auto;
+  margin-top: 12px;
+  width: 120%;
+  text-align: center;
+}
+
+.quote-heading {
+  margin: 0;
+}
+
+.quote {
+  font-size: 15px;
+}
+
+.author {
+  font-style: italic;
+  font-size: 15px;
+}
