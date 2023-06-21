@@ -36,11 +36,11 @@ function CalculatorLogic() {
           <button type="button" onClick={handleClick} className="btn number">4</button>
           <button type="button" onClick={handleClick} className="btn number">5</button>
           <button type="button" onClick={handleClick} className="btn number">6</button>
-          <button type="button" onClick={handleClick} className="btn operator">*</button>
+          <button type="button" onClick={handleClick} className="btn operator">x</button>
           <button type="button" onClick={handleClick} className="btn number">1</button>
           <button type="button" onClick={handleClick} className="btn number">2</button>
           <button type="button" onClick={handleClick} className="btn number">3</button>
-          <button type="button" onClick={handleClick} className="btn operator">/</button>
+          <button type="button" onClick={handleClick} className="btn operator">÷</button>
           <button type="button" onClick={handleClick} className="btn number zero">0</button>
           <button type="button" onClick={handleClick} className="btn number dot">.</button>
           <button type="button" onClick={handleClick} className="btn operator equal">=</button>
