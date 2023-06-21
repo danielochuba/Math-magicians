@@ -42,15 +42,16 @@ function Quotes() {
 
   if (loading) {
     return (
-      <div className="Quote">
+      <div className=" quoteLoad">
         <p className="quote">Loading...</p>
+        <div className="loader" />
       </div>
     );
   }
 
   if (error) {
     return (
-      <div className="Quote">
+      <div className="quoteContent">
         <p className="quote error">
           Error loading quote...
           {' '}
@@ -61,7 +62,7 @@ function Quotes() {
   }
 
   return (
-    <div className="quote-box">
+    <div className=" quoteContent quote-box">
       <h3 className="quote-heading">Quote</h3>
       <p className="quote">{data.quote}</p>
       <p className="author">

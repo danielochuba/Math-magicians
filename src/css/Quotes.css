@@ -4,22 +4,52 @@
 
 .quote-box {
   height: 150px;
-  border: 1px solid darkorange;
   margin: auto;
   margin-top: 12px;
-  width: 120%;
+  width: 80%;
   text-align: center;
+  padding: 0 10%;
 }
 
 .quote-heading {
-  margin: 0;
+  text-align: start;
+}
+
+.quoteContent {
+  position: absolute;
+  top: 35%;
+  bottom: 50%;
 }
 
 .quote {
-  font-size: 15px;
+  font-size: 25px;
+}
+
+.quoteLoad {
+  position: absolute;
+  margin: auto;
+  width: 10%;
+  top: 37%;
+  bottom: 0;
+  right: 0;
+  left: 0;
 }
 
 .author {
   font-style: italic;
   font-size: 15px;
+}
+
+.loader {
+  border: 12px solid #f3f3f3; /* Light grey */
+  border-top: 12px solid #3498db; /* Blue */
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
 }

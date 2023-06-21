@@ -1,0 +1,10 @@
+.title {
+  font-size: 20px;
+  padding-left: 4%;
+}
+
+article {
+  padding: 0 3%;
+  margin-top: 20px;
+  font-family: cursive, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
