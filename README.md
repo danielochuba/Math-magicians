@@ -53,6 +53,10 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Perform Arithmetic calculations]**
+- **[Single Page Application]**
+- **[Calculator UI]**
+- **[Quotes Interface]**
+- **[API Data for Quotes]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
