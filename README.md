@@ -62,7 +62,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- VISIT [Math magicians](https://danielochuba.github.io/Math-magicians/)
+- VISIT [Math magicians](https://math-magicians-duotech.onrender.com/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
