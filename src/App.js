@@ -3,7 +3,7 @@ import './css/navbar.css';
 import {
   Route, Routes,
 } from 'react-router-dom';
-import Calculator from './components/Calculator';
+import { Calculator } from './components/Calculator';
 import Quotes from './components/quotes';
 import Home from './components/Home';
 import Navbar from './components/navBar';
@@ -11,8 +11,9 @@ import Navbar from './components/navBar';
 function App() {
   return (
     <>
-      <Navbar />
+
       <div>
+        <Navbar />
         <Routes>
           <Route exact path="/" element={<Home />} />
           <Route path="/calculator" element={<Calculator />} />
