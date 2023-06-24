@@ -107,7 +107,7 @@ or a web-hosting platform of your choice.
 👤 **Daniel Ochuba**
 - GitHub: [@githubhandle](https://github.com/danielochuba)
 - Twitter: [@twitterhandle](https://twitter.com/ochuba_daniel)
-- LinkedIn: [LinkedIn](www.linkedln.com/in/daniel-ochuba-ugochukwu)
+- LinkedIn: [@LinkedIn](https://www.linkedln.com/in/daniel-ochuba-ugochukwu)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
