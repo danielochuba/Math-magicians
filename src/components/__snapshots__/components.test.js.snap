@@ -1,0 +1,532 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components renders correctly Calculator Component renders correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <section>
+        <div>
+          <div
+            class="nav"
+          >
+            <p
+              class="display-board"
+            >
+              0
+            </p>
+          </div>
+          <div
+            class="buttons"
+          >
+            <button
+              class="btn  function"
+              type="button"
+            >
+              AC
+            </button>
+            <button
+              class="btn  function"
+              type="button"
+            >
+              +/-
+            </button>
+            <button
+              class="btn  function"
+              type="button"
+            >
+              %
+            </button>
+            <button
+              class="btn operator"
+              type="button"
+            >
+              +
+            </button>
+            <button
+              class="btn number"
+              type="button"
+            >
+              7
+            </button>
+            <button
+              class="btn number"
+              type="button"
+            >
+              8
+            </button>
+            <button
+              class="btn number"
+              type="button"
+            >
+              9
+            </button>
+            <button
+              class="btn operator"
+              type="button"
+            >
+              -
+            </button>
+            <button
+              class="btn number"
+              type="button"
+            >
+              4
+            </button>
+            <button
+              class="btn number"
+              type="button"
+            >
+              5
+            </button>
+            <button
+              class="btn number"
+              type="button"
+            >
+              6
+            </button>
+            <button
+              class="btn operator"
+              type="button"
+            >
+              x
+            </button>
+            <button
+              class="btn number"
+              type="button"
+            >
+              1
+            </button>
+            <button
+              class="btn number"
+              type="button"
+            >
+              2
+            </button>
+            <button
+              class="btn number"
+              type="button"
+            >
+              3
+            </button>
+            <button
+              class="btn operator"
+              type="button"
+            >
+              ÷
+            </button>
+            <button
+              class="btn number zero"
+              type="button"
+            >
+              0
+            </button>
+            <button
+              class="btn number dot"
+              type="button"
+            >
+              .
+            </button>
+            <button
+              class="btn operator equal"
+              type="button"
+            >
+              =
+            </button>
+          </div>
+        </div>
+      </section>
+    </div>
+  </body>,
+  "container": <div>
+    <section>
+      <div>
+        <div
+          class="nav"
+        >
+          <p
+            class="display-board"
+          >
+            0
+          </p>
+        </div>
+        <div
+          class="buttons"
+        >
+          <button
+            class="btn  function"
+            type="button"
+          >
+            AC
+          </button>
+          <button
+            class="btn  function"
+            type="button"
+          >
+            +/-
+          </button>
+          <button
+            class="btn  function"
+            type="button"
+          >
+            %
+          </button>
+          <button
+            class="btn operator"
+            type="button"
+          >
+            +
+          </button>
+          <button
+            class="btn number"
+            type="button"
+          >
+            7
+          </button>
+          <button
+            class="btn number"
+            type="button"
+          >
+            8
+          </button>
+          <button
+            class="btn number"
+            type="button"
+          >
+            9
+          </button>
+          <button
+            class="btn operator"
+            type="button"
+          >
+            -
+          </button>
+          <button
+            class="btn number"
+            type="button"
+          >
+            4
+          </button>
+          <button
+            class="btn number"
+            type="button"
+          >
+            5
+          </button>
+          <button
+            class="btn number"
+            type="button"
+          >
+            6
+          </button>
+          <button
+            class="btn operator"
+            type="button"
+          >
+            x
+          </button>
+          <button
+            class="btn number"
+            type="button"
+          >
+            1
+          </button>
+          <button
+            class="btn number"
+            type="button"
+          >
+            2
+          </button>
+          <button
+            class="btn number"
+            type="button"
+          >
+            3
+          </button>
+          <button
+            class="btn operator"
+            type="button"
+          >
+            ÷
+          </button>
+          <button
+            class="btn number zero"
+            type="button"
+          >
+            0
+          </button>
+          <button
+            class="btn number dot"
+            type="button"
+          >
+            .
+          </button>
+          <button
+            class="btn operator equal"
+            type="button"
+          >
+            =
+          </button>
+        </div>
+      </div>
+    </section>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Components renders correctly Home Component renders correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <header
+          class="title"
+        >
+          Welcome to my Page!
+        </header>
+        <article>
+          <strong>
+            Welcome to Math Magicians!
+          </strong>
+          <p>
+            Explore the world of numbers and wisdom with my powerful web application. Whether you need to crunch some numbers or seek inspiration through thought-provoking quotes, we‘ve got you covered. Our intuitive interface and captivating design make learning and exploring mathematics a delightful experience.
+          </p>
+          <strong>
+            Calculator:
+          </strong>
+          <p>
+            Access my advanced calculator that can handle complex calculations with ease. Whether you need to perform basic arithmetic operations or dive into more advanced mathematical concepts, my calculator provides the tools you need. Crunch numbers, solve equations, and unlock the magic of mathematics.
+          </p>
+          <strong>
+            Quotes:
+          </strong>
+          <p>
+            Discover the wisdom of great minds through my Quotes interface. Immerse ymyself in a collection of inspiring quotes that will ignite ymy passion for learning and motivate you on ymy jmyney. From renowned mathematicians to philosophers, my carefully curated quotes will broaden ymy perspective and fuel ymy intellectual curiosity.
+          </p>
+          Navigate through the app effortlessly with my user-friendly interface and intuitive navigation system. The Math Magicians web app is designed to provide a seamless and engaging experience for users of all levels. Whether you‘re a student, a professional, or simply a curious mind, Math Magicians is here to empower you with knowledge and inspire you with wisdom. Get ready to embark on an exciting jmyney of mathematical exploration and enlightenment. Start ymy adventure now and let Math Magicians be ymy guide!
+        </article>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <header
+        class="title"
+      >
+        Welcome to my Page!
+      </header>
+      <article>
+        <strong>
+          Welcome to Math Magicians!
+        </strong>
+        <p>
+          Explore the world of numbers and wisdom with my powerful web application. Whether you need to crunch some numbers or seek inspiration through thought-provoking quotes, we‘ve got you covered. Our intuitive interface and captivating design make learning and exploring mathematics a delightful experience.
+        </p>
+        <strong>
+          Calculator:
+        </strong>
+        <p>
+          Access my advanced calculator that can handle complex calculations with ease. Whether you need to perform basic arithmetic operations or dive into more advanced mathematical concepts, my calculator provides the tools you need. Crunch numbers, solve equations, and unlock the magic of mathematics.
+        </p>
+        <strong>
+          Quotes:
+        </strong>
+        <p>
+          Discover the wisdom of great minds through my Quotes interface. Immerse ymyself in a collection of inspiring quotes that will ignite ymy passion for learning and motivate you on ymy jmyney. From renowned mathematicians to philosophers, my carefully curated quotes will broaden ymy perspective and fuel ymy intellectual curiosity.
+        </p>
+        Navigate through the app effortlessly with my user-friendly interface and intuitive navigation system. The Math Magicians web app is designed to provide a seamless and engaging experience for users of all levels. Whether you‘re a student, a professional, or simply a curious mind, Math Magicians is here to empower you with knowledge and inspire you with wisdom. Get ready to embark on an exciting jmyney of mathematical exploration and enlightenment. Start ymy adventure now and let Math Magicians be ymy guide!
+      </article>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Components renders correctly Quotes Component renders correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class=" quoteLoad"
+      >
+        <p
+          class="quote"
+        >
+          Loading...
+        </p>
+        <div
+          class="loader"
+        />
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class=" quoteLoad"
+    >
+      <p
+        class="quote"
+      >
+        Loading...
+      </p>
+      <div
+        class="loader"
+      />
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
