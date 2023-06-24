@@ -20,4 +20,24 @@ describe('Calculation operation works', () => {
   test('No Division with Zero ', () => {
     expect(operate(8, 0, '÷')).toBe("Can't divide by 0.");
   });
+  it('should clear the calculator data when "AC" button is pressed', () => {
+    expect(() => operate({ total: '5', next: '3', operation: '+' }).toBe("clear the calculator 'AC'"));
+    expect(() => operate({ total: null, next: null, operation: null }).toBe("Clear  'AC'"));
+  });
+  it('should perform the calculation when the "=" button is pressed', () => {
+    expect(() => operate({ total: '5', next: '3', operation: '+' }).toBe("Got the result '='"));
+    expect(() => operate({ total: '8', next: null, operation: null }).toBe("Equal '='"));
+    expect(() => operate({ total: '5', next: '3', operation: '-' }).toBe("Got the result '='"));
+    expect(() => operate({ total: '8', next: null, operation: null }).toBe("Equal '='"));
+  });
+  it('should append numbers correctly when multiple number buttons are pressed', () => {
+    expect(() => operate({ total: null, next: null, operation: null }).toBe('1'));
+    expect(() => operate({ total: null, next: null, operation: null }).toBe('5'));
+  });
+  it('should change the sign of the number when "+/-" button is pressed', () => {
+    expect(() => operate({ total: null, next: '5', operation: null }).toBe('+/-'));
+    expect(() => operate({ total: null, next: '-5', operation: null }).toBe('-5'));
+    expect(() => operate({ total: null, next: '10', operation: null }).toBe('+/-'));
+    expect(() => operate({ total: null, next: '-10', operation: null }).toBe('-10'));
+  });
 });
